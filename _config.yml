@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://yanyujason.github.io
+title: YY's Blog
+subtitle: Recording what I have learnt.
+author: Yan Yu
 simple_search: https://www.google.com/search
-description:
+description: You Will Never Walk Alone
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -69,10 +69,6 @@ github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
-# Twitter
-twitter_user:
-twitter_tweet_button: true
-
 # Google +1
 google_plus_one: false
 google_plus_one_size: medium
@@ -99,3 +95,9 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+#Disqus comments
+disqus_short_name: 
+disqus_show_comment_count: false
+
+
